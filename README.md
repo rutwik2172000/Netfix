@@ -1,2 +1,2 @@
-# Netfix
+# Netflix
 Netfix Home Page
